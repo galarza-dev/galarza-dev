@@ -8,7 +8,7 @@ My main focus areas are: **secure software**, **generative AI**, and **data anal
 - 🧪 Research: PSO/GWO for robot path planning, fraud detection in healthcare insurance, YOLOv8, among others.
 - 🛡️ Security: ISO 27001, ISMS, Zero Trust, static code analysis with SonarQube.
 - 🌎 Quito, Ecuador · UTC−5  
-- ✉️ Contact: davidgalarzagarcia [at] ejemplo.com · [LinkedIn](https://www.linkedin.com/)
+- ✉️ Contact: [LinkedIn](https://www.linkedin.com/in/david-galarza-garcia/)
 
 ---
 
@@ -54,7 +54,7 @@ Mis ejes principales son: **software seguro**, **IA generativa** y **analítica 
 - 🧪 Investigación: PSO/GWO para rutas de robots, detección de fraude en seguros, YOLOv8, entre otros.
 - 🛡️ Seguridad: ISO 27001, SGSI, Zero Trust, revisión estática con SonarQube.
 - 🌎 Quito, Ecuador · UTC−5  
-- ✉️ Contacto: davidgalarzagarcia [at] ejemplo.com · [LinkedIn](https://www.linkedin.com/)
+- ✉️ Contacto: [LinkedIn](https://www.linkedin.com/in/david-galarza-garcia/)
 
 ---
 </details>
